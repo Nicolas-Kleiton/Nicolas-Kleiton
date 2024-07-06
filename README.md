@@ -10,10 +10,3 @@
   <a href="https://github.com/Nicolas-Kleiton">
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Kleiton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&layout=compact&langs_count=6&theme=tokyonight"/>
-
-### Studying in this moment:
-
-
-
-
-
