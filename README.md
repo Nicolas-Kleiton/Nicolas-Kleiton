@@ -10,9 +10,11 @@
   <a href="https://github.com/Nicolas-Kleiton/Nicolas-Kleiton.git">
     <img alt="Nicolas Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Kleiton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
+  <a href="https://github.com/Nicolas-Kleiton/Nicolas-Kleiton.git">
     <img alt="Nicolas Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" />
   </a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<br><br>
 
