@@ -12,6 +12,10 @@
   </a>
 </div>
 
+
+<img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI2NTAxOTcsIm5iZiI6MTcyMjY0OTg5NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAzVDAxNTEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmMDllZGYyMGVmZTdhZWJkY2VhZTgwNDdmYWFiNGNlM2NiZTA4NWFiOGNmOWYyMjU4NDUwYjljOWQzYzRjNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jQKtEIzZiGuylVnCRmaQDPgc2hGUpaIPNgGpqBd0FP" width="50">
+<br><br>     
+
 <p align="center">
     <img alt="Nicolas Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Kleiton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
