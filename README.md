@@ -18,3 +18,6 @@
     <img alt="Nicolas Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" />
   </a>
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="400">
+</div>
