@@ -12,24 +12,25 @@
    <a href="https://www.instagram.com/iniihcki/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
 </div>
 
+&nbsp; 
 
 ## Stats:
 <p align="center">
     <img alt="Nicolas Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Kleiton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
     <img alt="Nicolas Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" />
-  </a>
+</p>
+
+&nbsp;
 
 ## Learning Skills:
-<div display="inline_block" >
-<img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<div display="inline_block">
+  <img align="center" alt="C" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-#
+&nbsp;
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake-dark.svg">
