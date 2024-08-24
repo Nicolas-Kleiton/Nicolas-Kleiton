@@ -15,14 +15,15 @@
 
 </div>
 
-Stats:
+
+## Stats:
 <p align="center">
     <img alt="Nicolas Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Kleiton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
     <img alt="Nicolas Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" />
   </a>
 
-## Skills:
+## Learning Skills:
 <div display="inline_block" >
 <img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
