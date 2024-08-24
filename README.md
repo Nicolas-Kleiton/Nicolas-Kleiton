@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello World, I'm Nicolas, be very welcome!
 > Computer Science Student in UFPB.
 
-Connect with me:
+## Connect with me:
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="mailto:inicolaskleiton@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,10 +22,11 @@ Stats:
     <img alt="Nicolas Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Kleiton&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" />
   </a>
 
-# Skills:
-
+## Skills:
+<div display="inline_block" >
+<img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<img align="center" alt="C" height="54" width="62"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+</div>
 
 #
 
