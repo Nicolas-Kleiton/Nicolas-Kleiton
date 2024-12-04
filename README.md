@@ -28,6 +28,8 @@
 <div display="inline_block">
   <img align="center" alt="C" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="HTML" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="React" height="62" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 &nbsp;
