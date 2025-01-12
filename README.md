@@ -1,19 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello World, I'm Nicolas, be very welcome!
 > Computer Science Student at UFPB
 
-## Connect with me:
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="mailto:inicolaskleiton@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolaskleiton/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-   <a href="https://www.instagram.com/iniihcki/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
 &nbsp; 
 
 ## Stats:
@@ -39,3 +26,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
 </picture>
+
+&nbsp;
+
+## Connect with me:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="mailto:inicolaskleiton@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolaskleiton/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+   <a href="https://www.instagram.com/iniihcki/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
