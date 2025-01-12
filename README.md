@@ -19,14 +19,6 @@
 
 &nbsp;
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
-</picture>
-
-&nbsp;
-
 ## Connect with me:
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="mailto:inicolaskleiton@gmail.com">
@@ -39,3 +31,12 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+&nbsp;
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas-Kleiton/Nicolas-Kleiton/output/github-contribution-grid-snake.svg">
+</picture>
+
